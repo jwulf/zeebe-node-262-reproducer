@@ -1,6 +1,6 @@
 # zeebe-node-262-reproducer
 
-A reproducer for Issue 262 in the Zeebe Node library
+A reproducer for [Issue 262](https://github.com/camunda-community-hub/zeebe-client-node-js/issues/262) in the Zeebe Node library
 
 ## To run
 
