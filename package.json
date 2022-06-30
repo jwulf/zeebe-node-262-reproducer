@@ -1,0 +1,23 @@
+{
+  "name": "zeebe-node-262-reproducer",
+  "version": "1.0.0",
+  "description": "A reproducer for Issue 262 in the Zeebe Node library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwulf/zeebe-node-262-reproducer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwulf/zeebe-node-262-reproducer/issues"
+  },
+  "homepage": "https://github.com/jwulf/zeebe-node-262-reproducer#readme",
+  "dependencies": {
+    "zeebe-node": "^8.0.1"
+  }
+}
